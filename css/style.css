@@ -95,7 +95,7 @@ button h1 {
 }
 
 input {
-  appearance: none; /*Tirar aparecendia do input (checkbox)*/
+  appearance: none; /*Tirar aparencia do input (checkbox)*/
   -webkit-appearance: none;
 
   width: 64px;
